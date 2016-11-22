@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logback-color.iml" filepath="$PROJECT_DIR$/.idea/modules/logback-color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logback-color_main.iml" filepath="$PROJECT_DIR$/.idea/modules/logback-color_main.iml" group="logback-color" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logback-color_test.iml" filepath="$PROJECT_DIR$/.idea/modules/logback-color_test.iml" group="logback-color" />
+    </modules>
+  </component>
+</project>
